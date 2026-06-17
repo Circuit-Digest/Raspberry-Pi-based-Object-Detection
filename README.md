@@ -69,6 +69,13 @@ This project demonstrates how to perform real-time object detection using a Rasp
 | Easy to implement without heavy local processing | Limited API usage (scans per day/month depending on your plan) |
 | Supports 75+ predefined object classes | Accuracy can drop in low-light conditions |
 
+## Link for the Full Guide
+
+https://circuitdigest.com/microcontroller-projects/raspberry-pi-object-detection-using-circuitdigest-cloud
+
+---
+
+
 ## Relevant Links
 - [CircuitDigest Cloud Platform](https://www.circuitdigest.cloud/)
 - [Raspberry Pi based Object Detection GitHub Repo](https://github.com/Circuit-Digest/Raspberry-Pi-based-Object-Detection)
